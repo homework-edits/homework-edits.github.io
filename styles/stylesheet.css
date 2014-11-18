@@ -1,6 +1,9 @@
 * {
   font-family: "Roboto Slab";
 }
+body {
+  background-image: url("");
+}
 ul.navbar li {
   list-style-type: none;
   display: inline;
