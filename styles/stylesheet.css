@@ -8,7 +8,7 @@ body {
 ul.navbar {
   width: 98%;
   border-radius: 2px;
-  background-color: 1d565d;
+  background-color: #1d565d;
 }
 ul.navbar li {
   list-style-type: none;
