@@ -12,3 +12,9 @@ ul.navbar li {
 ul.navbar a {
   text-decoration: none;
 }
+#whatis {
+  opacity: 0.6;
+  background-color: #000;
+  color: white;
+  float: left;
+}
