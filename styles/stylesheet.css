@@ -1,6 +1,11 @@
 * {
   font-family: "Roboto Slab";
 }
-p {
-  font-size: 20px;
+ul.navbar li {
+  list-style-type: none;
+  display: inline;
+  padding: 10;
+}
+ul.navbar a {
+  text-decoration: none;
 }
