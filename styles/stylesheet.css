@@ -29,4 +29,24 @@ ul.navbar a:hover {
   opacity: 0.6;
   background-color: #000;
   float: left;
+  max-width: 28%;
+}
+#whatis h4 {
+	margin-left: 20px;
+}
+#whatis p {
+	padding: 20px;
+}
+#whatis button {
+	border: 3px solid white;
+	background-color: #000;
+	color: white;
+	text-transform: uppercase;
+	float: right;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#whatis button:hover {
+	color: #1d565d;
+	border-color: #1d565d;
 }
