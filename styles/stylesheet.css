@@ -1,0 +1,32 @@
+* {
+  font-family: "Roboto Slab";
+}
+body {
+  background-image: url("http://thumbs.dreamstime.com/z/cyan-futuristic-abstract-background-5753309.jpg");
+  color: white;
+}
+ul.navbar {
+  width: 98%;
+  border-radius: 2px;
+  background-color: #1d565d;
+  height: 20px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+ul.navbar li {
+  list-style-type: none;
+  display: inline;
+  padding: 10;
+}
+ul.navbar a {
+  text-decoration: none;
+  color: white;
+}
+ul.navbar a:hover {
+  text-shadow: 10px;
+}
+#whatis {
+  opacity: 0.6;
+  background-color: #000;
+  float: left;
+}
