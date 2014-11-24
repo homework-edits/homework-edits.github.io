@@ -6,10 +6,10 @@ body {
   color: white;
 }
 ul.navbar {
-  width: 98%;
-  border-radius: 2px;
+  width: 100%;
   background-color: #0193ef;
-  height: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-left: 3px;
   margin-right: 3px;
 }
