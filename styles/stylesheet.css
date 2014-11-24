@@ -24,7 +24,7 @@ ul.navbar a {
   color: white;
 }
 ul.navbar a:hover {
-  text-shadow: 10px;
+  color: #466c86;
 }
 #whatis {
   opacity: 0.6;
