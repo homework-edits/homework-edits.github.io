@@ -8,7 +8,7 @@ body {
 ul.navbar {
   width: 98%;
   border-radius: 2px;
-  background-color: #1d565d;
+  background-color: #0193ef;
   height: 20px;
   margin-left: 3px;
   margin-right: 3px;
@@ -48,6 +48,6 @@ ul.navbar a:hover {
 	margin-bottom: 10px;
 }
 #whatis button:hover {
-	color: #1d565d;
-	border-color: #1d565d;
+	color: #0193ef;
+	border-color: #0193ef;
 }
