@@ -16,7 +16,8 @@ ul.navbar {
 ul.navbar li {
   list-style-type: none;
   display: inline;
-  padding: 10;
+  padding: 10px;
+  height: 20px;
 }
 ul.navbar a {
   text-decoration: none;
